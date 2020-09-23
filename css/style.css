@@ -471,7 +471,7 @@ position: absolute;
 background-image: url("../images/mob-nav.png");
 right: 31px;
 background-repeat: no-repeat;
-top: 31px;
+top: 37px;
 cursor: pointer;
 }
 .navbar-toggler:focus, .navbar-toggler:hover {
