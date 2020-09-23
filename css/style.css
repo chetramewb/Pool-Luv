@@ -40,6 +40,9 @@ display: flex;
 justify-content: end;
 width: 100%;
 }
+.main-header .navbar.navbar-expand-lg {
+	padding: 20px 0px;
+}
 
 .btn.btn-outline-success.my-2.my-sm-0 {
 font-size: 17px;
